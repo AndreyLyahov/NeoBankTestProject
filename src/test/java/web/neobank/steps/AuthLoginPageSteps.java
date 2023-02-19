@@ -1,7 +1,6 @@
 package web.neobank.steps;
 
 import com.codeborne.selenide.Condition;
-import com.google.inject.Inject;
 import web.neobank.pages.AuthLoginPage;
 
 import static com.codeborne.selenide.Selenide.open;
